@@ -11,7 +11,7 @@ IDV com referências modernas que transmitissem segurança, confiança e serieda
 </p>
 
 <p align="center">
-▷▷▷▷▷ <a href="https://www.behance.net/gallery/77096365/Adelcio-Consultoria-Identidade-visual-e-web-design">Aplicações e exemplos do projeto</a> ◁◁◁◁◁
+▷▷▷▷▷ <a href="https://www.behance.net/gallery/77096365/Adelcio-Consultoria-Identidade-visual-e-web-design"><b>Aplicações e exemplos do projeto</b></a> ◁◁◁◁◁
 </p>
 ---
 
