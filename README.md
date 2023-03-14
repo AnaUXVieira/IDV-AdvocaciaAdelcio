@@ -27,22 +27,9 @@ Você pode acessar o projeto clicando [aqui](https://devmagno.github.io/bikcraft
 ---
 
 ## 🔖 Layout
-Tanto o **wireframe** quanto o **design** do projeto **Bikcraft** foram desenvolvidos no **Adobe XD,** ambos **navegáveis** e que você pode acessar nos links abaixo:
+Tanto o **wireframe** quanto o **design** do projeto foram desenvolvidos no **Adobe XD,** ambos **navegáveis** e que você pode acessar nos links abaixo:
 - **[Wireframe do projeto](https://xd.adobe.com/view/95e96e6a-d057-42e1-a34f-bc99d2963f42-c0ba/?fullscreen&hints=off)**
 - **[Design do projeto](https://xd.adobe.com/view/49a2fc68-e3ac-4e9c-b825-0217fcc8c506-1cf1/?fullscreen&hints=off)**
-
----
-
-## 🔧 Como executar o projeto
-
-```bash
-# Clone o repositório
-git clone https://github.com/devMagno/bikcraft
-
-# Entre no diretório
-cd bikcraft
-```
-Depois disso, utilize uma ferramenta como o [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) para criar um servidor local e executar o projeto.
 
 ---
 
