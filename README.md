@@ -39,4 +39,4 @@ Meu foco no projeto foi a criação dessa nova identidade com objetivo de fugir 
 
 ---
 
-✨Feito com carinho e café por **[Ana Vieira](https://www.linkedin.com/in/anavieiraa/)**✨
+✨Feito com ❤️ e ☕ por [Ana Vieira](https://www.linkedin.com/in/anavieiraa/)✨
