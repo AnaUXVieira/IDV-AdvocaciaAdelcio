@@ -1,4 +1,4 @@
-# Bikcraft 🚴
+# Projeto 1 🚴
 <p align="center">
 	<img src="https://i.imgur.com/g2uXUfK.png" alt="Bikcraft" title="Bikcraft">
 </p>
