@@ -1,6 +1,6 @@
 # idv identidade de marca - adelcio angelo bazzo
 
-## 🧭 Resumo/ Foco   
+## 🧭 Resumo 
 
 IDV com referências modernas que transmitissem segurança, confiança e seriedade, porem fugindo do padão da área da advocacia.   
 
