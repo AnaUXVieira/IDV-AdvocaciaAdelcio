@@ -1,4 +1,4 @@
-# idv identidade de marca - adelcio angelo bazzo
+IDV - Identidade de Visual - adelcio angelo bazzo
 
 ## 🧭 Resumo 
 
