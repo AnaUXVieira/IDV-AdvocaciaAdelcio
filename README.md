@@ -1,4 +1,4 @@
-IDV - Identidade de Visual - adelcio angelo bazzo
+## IDV - Identidade de Visual - Adelcio Angelo Bazzo
 
 ## 🧭 Resumo 
 
