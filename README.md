@@ -38,9 +38,5 @@ Meu foco no projeto foi a criação dessa nova identidade com objetivo de fugir 
 - **Photoshop**
 
 ---
-<p align="center">
-✨Feito com carinho e café por</p> **[Ana Vieira](https://www.linkedin.com/in/anavieiraa/)**✨
-
-
 
 ✨Feito com carinho e café por **[Ana Vieira](https://www.linkedin.com/in/anavieiraa/)**✨
