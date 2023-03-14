@@ -13,7 +13,6 @@ IDV com referências modernas que transmitissem segurança, confiança e serieda
 </p>
 
 - **[Wireframe do projeto](link)**
-- **[Design do projeto](link)**
 
 ---
 
@@ -26,7 +25,13 @@ Meu foco no projeto foi a criação dessa nova identidade com objetivo de fugir 
 ---
 
 ## Conhecimentos utilizados:
-]
+
+• Artigos de papelaria
+• Criação/aplicação de identidade Visual
+• Coleta direta de feedback com os clientes
+• Desk Research
+• Moodboard de referências
+• Tratamento de imagens
 
 ---
 
