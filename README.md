@@ -14,8 +14,8 @@ IDV com referências modernas que transmitissem segurança, confiança e serieda
 
 imagem 
 
-- **[Wireframe do projeto](link)
-- **[Design do projeto](link)
+- **[Wireframe do projeto](link)**
+- **[Design do projeto](link)**
 
 ---
 
@@ -38,5 +38,6 @@ Meu foco no projeto foi a criação dessa nova identidade com objetivo de fugir 
 - **Photoshop**
 
 ---
-
+<p align="center">
 **✨Feito com carinho e café por Ana Vieira ✨**
+</p>
