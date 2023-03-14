@@ -13,6 +13,7 @@ IDV com referências modernas que transmitissem segurança, confiança e serieda
 <p align="center">
 ▷▷▷▷▷ <a href="https://www.behance.net/gallery/77096365/Adelcio-Consultoria-Identidade-visual-e-web-design"><b>Aplicações e exemplos do projeto</b></a> ◁◁◁◁◁
 </p>
+
 ---
 
 ## 📖 Sobre   
@@ -47,4 +48,5 @@ Meu foco no projeto foi a criação dessa nova identidade com objetivo de fugir 
 
 ---
 
-✨Feito com ❤️ e ☕ por [Ana Vieira](https://www.linkedin.com/in/anavieiraa/)✨
+✨ <a href="https://www.linkedin.com/in/anavieiraa/"><b>Feito com ❤️ e ☕ por Ana Vieira</b></a> ✨
+</p>
