@@ -1,9 +1,5 @@
 # idv identidade de marca - adelcio angelo bazzo
 
-<p align="center">
-	<img src="https://imgur.com/4D4h3I2.png" alt="Projeto Adelcio" title="Projeto Adelcio">
-</p>
-
 ## 🧭 Resumo/ Foco   
 
 IDV com referências modernas que transmitissem segurança, confiança e seriedade, porem fugindo do padão da área da advocacia.   
@@ -12,7 +8,9 @@ IDV com referências modernas que transmitissem segurança, confiança e serieda
 
 ## 🖥️ Demonstração
 
-imagem 
+<p align="center">
+	<img src="https://imgur.com/4D4h3I2.png" alt="Projeto Adelcio" title="Projeto Adelcio">
+</p>
 
 - **[Wireframe do projeto](link)**
 - **[Design do projeto](link)**
