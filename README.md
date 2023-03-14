@@ -1,6 +1,6 @@
 # Projeto 1 🚴
 <p align="center">
-	<img src="https://imgur.com/9p0YLwx" alt="Projeto Cargolift" title="Projeto Cargolift">
+	<img src="https://imgur.com/4D4h3I2.png" alt="Projeto Cargolift" title="Projeto Cargolift">
 </p>
 
 ## 📖 Sobre   
