@@ -48,5 +48,6 @@ Meu foco no projeto foi a criação dessa nova identidade com objetivo de fugir 
 
 ---
 
+<p align="center">
 ✨ <a href="https://www.linkedin.com/in/anavieiraa/"><b>Feito com ❤️ e ☕ por Ana Vieira</b></a> ✨
 </p>
