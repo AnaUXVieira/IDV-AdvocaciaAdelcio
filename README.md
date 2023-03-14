@@ -9,7 +9,7 @@ IDV com referências modernas que transmitissem segurança, confiança e serieda
 ## 🖥️ Demonstração
 
 <p align="center">
-	<img src="https://imgur.com/4D4h3I2.png" alt="Projeto Adelcio" title="Projeto Adelcio">
+	<img src="https://imgur.com/4D4h3I2.png" href="www.google.com" alt="Projeto Adelcio" title="Projeto Adelcio">
 </p>
 
 - **[Wireframe do projeto](link)**
