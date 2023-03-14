@@ -4,15 +4,11 @@
 
 IDV com referências modernas que transmitissem segurança, confiança e seriedade, porem fugindo do padão da área da advocacia.   
 
----
-
-## 🖥️ Demonstração
+- **[Aplicações e exemplos do projeto](https://www.behance.net/gallery/77096365/Adelcio-Consultoria-Identidade-visual-e-web-design)**
 
 <p align="center">
 	<a href="https://www.behance.net/gallery/77096365/Adelcio-Consultoria-Identidade-visual-e-web-design"><img src="https://imgur.com/4D4h3I2.png" alt="Projeto Adelcio" title="Projeto Adelcio"></a>
 </p>
-
-- **[Aplicações e exemplos do projeto](https://www.behance.net/gallery/77096365/Adelcio-Consultoria-Identidade-visual-e-web-design)**
 
 ---
 
