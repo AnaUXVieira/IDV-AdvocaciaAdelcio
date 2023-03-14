@@ -1,41 +1,42 @@
-# Projeto 1 🚴
+# idv identidade de marca - adelcio angelo bazzo
+
 <p align="center">
-	<img src="https://imgur.com/4D4h3I2.png" alt="Projeto Cargolift" title="Projeto Cargolift">
+	<img src="https://imgur.com/4D4h3I2.png" alt="Projeto Adelcio" title="Projeto Adelcio">
 </p>
 
-## 📖 Sobre   
+## 🧭 Resumo/ Foco   
 
-
----
-
-## 🚀 Tecnologias e ferramentas utilizadas
-- **HTML5**
-- **CSS3**
-- **JavaScript** (com os plugins [SimpleSlide](https://github.com/origamid/simple-slide), [SimpleAnime](https://github.com/origamid/simple-anime) e [SimpleForm](https://github.com/origamid/simple-form))
-- **PHP** (envio de e-mail com [SendGrid](https://sendgrid.com/))
-- **SASS**
-- **Scout App** (compilador do SASS)
+IDV com referências modernas que transmitissem segurança, confiança e seriedade, porem fugindo do padão da área da advocacia.   
 
 ---
 
 ## 🖥️ Demonstração
-[![Bikcraft](https://i.imgur.com/Gy5e6Tn.png "Clique para acessar o projeto")](https://devmagno.github.io/bikcraft/views/index.html "Clique para acessar o projeto")   
 
-Você pode acessar o projeto clicando [aqui](https://devmagno.github.io/bikcraft/views/index.html).
+imagem 
 
----
-
-## 🔖 Layout
-Tanto o **wireframe** quanto o **design** do projeto foram desenvolvidos no **Adobe XD,** ambos **navegáveis** e que você pode acessar nos links abaixo:
-- **[Wireframe do projeto](https://xd.adobe.com/view/95e96e6a-d057-42e1-a34f-bc99d2963f42-c0ba/?fullscreen&hints=off)**
-- **[Design do projeto](https://xd.adobe.com/view/49a2fc68-e3ac-4e9c-b825-0217fcc8c506-1cf1/?fullscreen&hints=off)**
+- **[Wireframe do projeto](link)
+- **[Design do projeto](link)
 
 ---
 
-## 📝 Licença
+## 📖 Sobre   
 
-O projeto está sob a licença MIT. Para saber mais, acesse o arquivo [LICENSE](https://github.com/devMagno/bikcraft/blob/master/LICENSE).
+Projeto para o Escritório de Advocacia e Consultoria Digital de Adelcio Angelo Bazzo, durante o periodo que participei da empresa junior estalo design.
+
+Meu foco no projeto foi a criação dessa nova identidade com objetivo de fugir dos simbolos tradicionaos utilizados na área de advocacia, explorando a relação com o Direito Digital. 
 
 ---
 
-**Desenvolvido com 💛 por [Guilherme Magno](https://github.com/devmagno/).**
+## Conhecimentos utilizados:
+]
+
+---
+
+## 🚀 Tecnologias e ferramentas utilizadas
+
+- **Illustrator**
+- **Photoshop**
+
+---
+
+**✨Feito com carinho e café por Ana Vieira ✨**
