@@ -1,6 +1,6 @@
 # Projeto 1 🚴
 <p align="center">
-	<img src="https://i.imgur.com/g2uXUfK.png" alt="Bikcraft" title="Bikcraft">
+	<img src="https://imgur.com/9p0YLwx" alt="Projeto Cargolift" title="Projeto Cargolift">
 </p>
 
 ## 📖 Sobre   
